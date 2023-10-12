@@ -1,2 +1,0 @@
-msg=Hellowold-this is from config server -Development Environment
-var=New Variable
